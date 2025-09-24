@@ -30,7 +30,8 @@
         "ext-xhprof": "*",
         "workerman/webman": "*",
         "monolog/monolog": "*",
-        "illuminate/redis": "*"
+        "illuminate/redis": "*",
+	"symfony/polyfill-php80":"*"
     },
     "autoload": {
         "psr-4": {
